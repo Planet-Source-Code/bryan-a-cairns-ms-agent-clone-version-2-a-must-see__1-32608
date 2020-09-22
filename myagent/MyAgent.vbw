@@ -1,0 +1,14 @@
+Charactor = 34, 18, 639, 524, 
+frmOffScreen = 66, 66, 563, 433, C, 44, 44, 541, 411, C
+frmRender = 110, 110, 607, 477, , 88, 88, 585, 455, C
+Mod_WindowShape = 105, 76, 602, 443, C
+mod_General = 66, 66, 563, 433, 
+mod_WavFiles = 88, 88, 585, 455, C
+mod_Files = 110, 110, 607, 477, C
+mUnzip = 44, 44, 541, 411, C
+bcZipper = 22, 22, 519, 389, C
+cUnzip = 176, 176, 673, 543, C
+cZip = 66, 66, 563, 433, C
+mZip = 0, 0, 0, 0, C
+frmBalloon = 110, 110, 607, 477, C, 132, 132, 629, 499, C
+modBalloon = 22, 22, 519, 389, C
